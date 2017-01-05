@@ -1,0 +1,74 @@
+{
+   "universities" : [
+    {
+        "title": "Murdoch University",
+        "web": "www.murdoch.edu.au",
+        "phone": "(08) 9360 6000",
+        "lat": -32.069207,
+        "lng":  115.833594
+    },
+    {
+        "title": "ACU",
+        "web": "acu.edu.au",
+        "phone": "(07) 3623 7100",
+        "lat": -27.378064,
+        "lng": 153.090507
+    },
+	{
+        "title": "Deakin",
+        "web": "deakin.edu.au",
+        "phone": "(03) 9244 6100",
+        "lat": -37.847459,
+        "lng": 145.114141
+    },
+	{
+        "title": "Curtin",
+        "web": "curtin.edu.au",
+        "phone": "(08) 9266 9266",
+        "lat": -32.006659,
+        "lng": 115.893710
+    },
+	{
+        "title": "ECU",
+        "web": "www.ecu.edu.au",
+        "phone": "(08) 13 43 28",
+        "lat": -31.751748,
+        "lng": , 115.772462
+    },
+	{
+        "title": "Macquarie",
+        "web": "mq.edu.au",
+        "phone": "(02) 9850 7111",
+        "lat": -33.773824,
+        "lng": 151.111545
+    },
+	{
+        "title": "Monash",
+        "web": "monash.edu",
+        "phone": "(03) 9905 4000",
+        "lat": -37.911236,
+        "lng": 145.131793
+    },
+	{
+        "title": "Torrens",
+        "web": "torrens.edu.au",
+        "phone": "1300 575 803",
+        "lat": -34.929100,
+        "lng": 138.600158
+    },
+	{
+        "title": "Victoria university",
+        "web": "vu.edu.au",
+        "phone": "(03) 9919 6100",
+        "lat": -37.794525,
+        "lng": 144.898019
+    },
+	{
+        "title": "UWA",
+        "web": "uwa.edu.au",
+        "phone": "(08) 6488 6000",
+        "lat": -31.980942,
+        "lng": , 115.816455
+    }
+  ]
+}

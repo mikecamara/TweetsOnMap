@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2001/12/soap-envelope" SOAP-ENV:encodingStyle="http://www.w3.org/2001/12/soap-encoding" >
+
+   <SOAP-ENV:Body xmlns:tw="http://www.xyz.org/tweets" >
+	
+      <tw:Student>
+		<tw:studentid>1</tw:studentid>
+		<tw:tweet>
+			<tw:text>Giles is the most intelligent teacher at Murdoch uni</tw:text>
+			<tw:location>
+				<tw:lat>90</tw:lat>
+				<tw:long>200</tw:long>
+			</tw:location>
+		 </tw:tweet>
+		 
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>2</tw:studentid>
+		<tw:tweet>
+			<tw:text>Two wrongs don't make a right in ACU</tw:text>
+			<tw:location>
+				<tw:lat>80</tw:lat>
+				<tw:long>128</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>	
+
+      <tw:Student>
+		<tw:studentid>3</tw:studentid>
+		<tw:tweet>
+			<tw:text>The pen is mightier than the sword at Deakin</tw:text>
+			<tw:location>
+				<tw:lat>400</tw:lat>
+				<tw:long>100</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>4</tw:studentid>
+		<tw:tweet>
+			<tw:text>When at Curtin , do as the Romans</tw:text>
+			<tw:location>
+				<tw:lat>300</tw:lat>
+				<tw:long>500</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>5</tw:studentid>
+		<tw:tweet>
+			<tw:text>The squeaky wheel gets the grease in ECU</tw:text>
+			<tw:location>
+				<tw:lat>150</tw:lat>
+				<tw:long>500</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>6</tw:studentid>
+		<tw:tweet>
+			<tw:text>When the going gets tough, the tough get going at Macquarie</tw:text>
+			<tw:location>
+				<tw:lat>550</tw:lat>
+				<tw:long>20</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>7</tw:studentid>
+		<tw:tweet>
+			<tw:text>No man is an island in Monash</tw:text>
+			<tw:location>
+				<tw:lat>300</tw:lat>
+				<tw:long>333</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>8</tw:studentid>
+		<tw:tweet>
+			<tw:text>Fortune favors the bold at Torrens</tw:text>
+			<tw:location>
+				<tw:lat>800</tw:lat>
+				<tw:long>550</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>9</tw:studentid>
+		<tw:tweet>
+			<tw:text>Honesty is the best policy at Victoria university</tw:text>
+			<tw:location>
+				<tw:lat>500</tw:lat>
+				<tw:long>200</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>10</tw:studentid>
+		<tw:tweet>
+			<tw:text>Hope for the best, but prepare for the worst at UWA</tw:text>
+			<tw:location>
+				<tw:lat>33</tw:lat>
+				<tw:long>420</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>11</tw:studentid>
+		<tw:tweet>
+			<tw:text>Better late than never UWA</tw:text>
+			<tw:location>
+				<tw:lat>220</tw:lat>
+				<tw:long>600</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>12</tw:studentid>
+		<tw:tweet>
+			<tw:text>Birds of a feather flock together at Murdoch</tw:text>
+			<tw:location>
+				<tw:lat>400</tw:lat>
+				<tw:long>620</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>13</tw:studentid>
+		<tw:tweet>
+			<tw:text>At ECU keep your friends close and your enemies closer</tw:text>
+			<tw:location>
+				<tw:lat>200</tw:lat>
+				<tw:long>450</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>14</tw:studentid>
+		<tw:tweet>
+			<tw:text>A picture is worth a thousand words in Monash</tw:text>
+			<tw:location>
+				<tw:lat>300</tw:lat>
+				<tw:long>200</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>15</tw:studentid>
+		<tw:tweet>
+			<tw:text>Theres no such thing as a free lunch at Macquarie</tw:text>
+			<tw:location>
+				<tw:lat>300</tw:lat>
+				<tw:long>20</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>16</tw:studentid>
+		<tw:tweet>
+			<tw:text>There's no place like home - Murdoch</tw:text>
+			<tw:location>
+				<tw:lat>360</tw:lat>
+				<tw:long>400</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>17</tw:studentid>
+		<tw:tweet>
+			<tw:text>Discretion is the greater part of valor at ACU</tw:text>
+			<tw:location>
+				<tw:lat>500</tw:lat>
+				<tw:long>620</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>18</tw:studentid>
+		<tw:tweet>
+			<tw:text>The early bird catches the worm at Curtin</tw:text>
+			<tw:location>
+				<tw:lat>500</tw:lat>
+				<tw:long>320</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>19</tw:studentid>
+		<tw:tweet>
+			<tw:text>Never look a gift horse in the mouth in Macquarie</tw:text>
+			<tw:location> 
+				<tw:lat>800</tw:lat>
+				<tw:long>330</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>20</tw:studentid>
+		<tw:tweet>
+			<tw:text>It is easy to be wise after the event at Curtin</tw:text>
+			<tw:location>
+				<tw:lat>45</tw:lat>
+				<tw:long>330</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+    
+	  
+   </SOAP-ENV:Body>
+	
+</SOAP-ENV:Envelope>

@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2001/12/soap-envelope" SOAP-ENV:encodingStyle="http://www.w3.org/2001/12/soap-encoding" >
+
+   <SOAP-ENV:Body xmlns:tw="http://www.xyz.org/tweets" >
+	
+      <tw:Student>
+		<tw:studentid>1</tw:studentid>
+		<tw:tweet>
+			<tw:text>Murdoch is amazing because they have the best teachers in the world.</tw:text>
+			<tw:location>
+				<tw:lat>-21.727811</tw:lat>
+				<tw:long>122.689900</tw:long>
+			</tw:location>
+		 </tw:tweet>
+		 
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>2</tw:studentid>
+		<tw:tweet>
+			<tw:text>Two wrongs don't make a right in ACU.</tw:text>
+			<tw:location>
+				<tw:lat>-18.551436</tw:lat>
+				<tw:long>128.270955</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>	
+
+      <tw:Student>
+		<tw:studentid>3</tw:studentid>
+		<tw:tweet>
+			<tw:text>The pen is mightier than the sword at Deakin.</tw:text>
+			<tw:location>
+				<tw:lat>-18.008980</tw:lat>
+				<tw:long>138.334430</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>4</tw:studentid>
+		<tw:tweet>
+			<tw:text>When at Curtin, do as the Romans.</tw:text>
+			<tw:location>
+				<tw:lat>-25.947126</tw:lat>
+				<tw:long>127.479939</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>5</tw:studentid>
+		<tw:tweet>
+			<tw:text>The squeaky wheel gets the grease in ECU.</tw:text>
+			<tw:location>
+				<tw:lat>-27.983678</tw:lat>
+				<tw:long>141.278766</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>6</tw:studentid>
+		<tw:tweet>
+			<tw:text>When the going gets tough, the tough get going at Macquarie.</tw:text>
+			<tw:location>
+				<tw:lat>-30.438204</tw:lat>
+				<tw:long>128.534626</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>7</tw:studentid>
+		<tw:tweet>
+			<tw:text>No man is an island in Monash.</tw:text>
+			<tw:location>
+				<tw:lat>-30.058584</tw:lat>
+				<tw:long>127.919392</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>8</tw:studentid>
+		<tw:tweet>
+			<tw:text>Fortune favors the bold at Torrens.</tw:text>
+			<tw:location>
+				<tw:lat>-17.548669</tw:lat>
+				<tw:long>135.434040</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>9</tw:studentid>
+		<tw:tweet>
+			<tw:text>People who live in glass houses should not throw stones at Victoria university.</tw:text>
+			<tw:location>
+				<tw:lat>-27.360983</tw:lat>
+				<tw:long>126.996541</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>10</tw:studentid>
+		<tw:tweet>
+			<tw:text>Hope for the best, but prepare for the worst at UWA.</tw:text>
+			<tw:location>
+				<tw:lat>-19.092173</tw:lat>
+				<tw:long>129.633259</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>11</tw:studentid>
+		<tw:tweet>
+			<tw:text>Better late than never UWA.</tw:text>
+			<tw:location>
+				<tw:lat>-23.108985</tw:lat>
+				<tw:long>149.364703</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>12</tw:studentid>
+		<tw:tweet>
+			<tw:text>Birds of a feather flock together at Murdoch.</tw:text>
+			<tw:location>
+				<tw:lat>-35.629571</tw:lat>
+				<tw:long>142.465289</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>13</tw:studentid>
+		<tw:tweet>
+			<tw:text>At ECU keep your friends close and your enemies closer.</tw:text>
+			<tw:location>
+				<tw:lat>-33.457977</tw:lat>
+				<tw:long>122.250447</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>14</tw:studentid>
+		<tw:tweet>
+			<tw:text>A picture is worth a thousand words in Monash.</tw:text>
+			<tw:location>
+				<tw:lat>-15.695973</tw:lat>
+				<tw:long>126.469197</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>15</tw:studentid>
+		<tw:tweet>
+			<tw:text>Theres no such thing as a free lunch at Macquarie.</tw:text>
+			<tw:location>
+				<tw:lat>-19.961936</tw:lat>
+				<tw:long>147.826617</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>16</tw:studentid>
+		<tw:tweet>
+			<tw:text>There's no place like home - Murdoch.</tw:text>
+			<tw:location>
+				<tw:lat>-26.380991</tw:lat>
+				<tw:long>134.686970</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>17</tw:studentid>
+		<tw:tweet>
+			<tw:text>Discretion is the greater part of valor at ACU.</tw:text>
+			<tw:location>
+				<tw:lat>-37.639414</tw:lat>
+				<tw:long>146.376422</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>18</tw:studentid>
+		<tw:tweet>
+			<tw:text>The early bird catches the worm at Curtin.</tw:text>
+			<tw:location>
+				<tw:lat>-14.252608</tw:lat>
+				<tw:long>126.601033</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>19</tw:studentid>
+		<tw:tweet>
+			<tw:text>Never look a gift horse in the mouth in Macquarie.</tw:text>
+			<tw:location> 
+				<tw:lat>-11.683376</tw:lat>
+				<tw:long>142.421344</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+      <tw:Student>
+		<tw:studentid>20</tw:studentid>
+		<tw:tweet>
+			<tw:text>You cant make an omelet without breaking a few eggs at Curtin.</tw:text>
+			<tw:location>
+				<tw:lat>-12.371062</tw:lat>
+				<tw:long>133.895954</tw:long>
+			</tw:location>
+		 </tw:tweet>
+      </tw:Student>
+	  
+    
+	  
+   </SOAP-ENV:Body>
+	
+</SOAP-ENV:Envelope>
